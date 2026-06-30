@@ -1,14 +1,25 @@
-<svg width="100%" viewBox="0 0 680 40" role="img" xmlns="http://www.w3.org/2000/svg">
-<title>Electric top accent</title>
-<desc>Thin animated lightning streak accent bar</desc>
-<style>
-.bolt{fill:#FFD700}
-.arc{fill:none;stroke:#3D8BFF;stroke-width:2;stroke-linecap:round}
-</style>
-<path class="arc" d="M20 20 Q60 5 100 20 Q140 35 180 20 Q220 5 260 20 Q300 35 340 20 Q380 5 420 20 Q460 35 500 20 Q540 5 580 20 Q620 35 660 20">
-<animate attributeName="opacity" values="0.3;1;0.3" dur="1.2s" repeatCount="indefinite"/>
-</path>
-<polygon class="bolt" points="335,5 320,22 332,22 318,38 345,18 333,18">
-<animate attributeName="opacity" values="1;0.4;1" dur="0.4s" repeatCount="indefinite"/>
+<svg width="100%" viewBox="0 0 680 60" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Refined electric accent bar - top</title>
+<desc>A slim circuit-style line with a glowing bolt at center, in dark navy, electric blue and gold</desc>
+<defs>
+<linearGradient id="fadeTop" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#0A0F1E" stop-opacity="0"/>
+<stop offset="15%" stop-color="#3D8BFF" stop-opacity="1"/>
+<stop offset="50%" stop-color="#FFD700" stop-opacity="1"/>
+<stop offset="85%" stop-color="#3D8BFF" stop-opacity="1"/>
+<stop offset="100%" stop-color="#0A0F1E" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<rect x="0" y="0" width="680" height="60" fill="#0A0F1E"/>
+<line x1="20" y1="30" x2="290" y2="30" stroke="url(#fadeTop)" stroke-width="1.5"/>
+<line x1="390" y1="30" x2="660" y2="30" stroke="url(#fadeTop)" stroke-width="1.5"/>
+<circle cx="300" cy="30" r="2" fill="#3D8BFF">
+<animate attributeName="r" values="2;4;2" dur="1.5s" repeatCount="indefinite"/>
+</circle>
+<circle cx="380" cy="30" r="2" fill="#3D8BFF">
+<animate attributeName="r" values="2;4;2" dur="1.5s" begin="0.4s" repeatCount="indefinite"/>
+</circle>
+<polygon points="345,12 328,33 339,33 332,48 351,27 340,27" fill="#FFD700">
+<animate attributeName="opacity" values="1;0.5;1" dur="0.8s" repeatCount="indefinite"/>
 </polygon>
 </svg>
