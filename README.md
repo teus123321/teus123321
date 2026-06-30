@@ -67,22 +67,6 @@ status  : always learning ⚡
 
 </div>
 
----
-
-### ⚡ Contributions
-
-<div align="center">
-
-<img src="./shock-top.svg" width="100%" alt="electric accent top"/>
-
-<img src="https://github.pumbas.net/api/contributions/teus123321?colour=FFD700&bgColour=0A0F1E&dotColour=3D8BFF" width="100%" alt="contribution chart"/>
-
-<img src="./shock-bottom.svg" width="100%" alt="electric accent bottom"/>
-
-</div>
-
----
-
 ### 🏆 Trophies
 
 <div align="center">
