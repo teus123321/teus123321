@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,40:0D1F5C,80:1A3EBF,100:FFD700&height=220&section=header&text=Mateus%20H&fontSize=85&fontColor=FFD700&animation=twinkling&fontAlignY=40&desc=Backend%20Developer%20%E2%9A%A1%20IFMT%20Pontes%20e%20Lacerda&descAlignY=60&descColor=AACFFF&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,40:0D1F5C,80:1A3EBF,100:FFD700&height=220&section=header&text=Mateus%20H&fontSize=85&fontColor=FFD700&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%9A%A1%20IFMT%20Pontes%20e%20Lacerda&descAlignY=60&descColor=AACFFF&descSize=18"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=60&lines=⚡+Building+real+impact+through+code;🐍+Python+%7C+☕+Java+%7C+🍃+Spring+Boot;🔥+FastAPI+%7C+🟢+Node.js+%7C+🐳+Docker;🚀+Backend+Dev+em+formação+constante)](https://github.com/teus123321)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=60&lines=⚡+Building+real+impact+through+code;🐍+Python+%7C+☕+Java+%7C+🍃+Spring+Boot;🌐+HTML+%7C+CSS+%7C+JavaScript;🚀+Full+Stack+Dev+em+formação+constante)](https://github.com/teus123321)
 
 <br/>
 
@@ -24,7 +24,7 @@
 name    : Mateus H
 alias   : teus123321
 course  : Sistemas de Informação — IFMT
-focus   : Backend Development
+focus   : Full Stack Development
 goal    : Code that solves real problems
 email   : mateushgds75@gmail.com
 status  : always learning ⚡
@@ -42,7 +42,11 @@ status  : always learning ⚡
 
 [![Backend](https://skillicons.dev/icons?i=python,java,fastapi,spring,nodejs,express&theme=dark&perline=6)](https://skillicons.dev)
 
-**Frontend & Tools**
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,react&theme=dark&perline=6)](https://skillicons.dev)
+
+**Tools & Database**
 
 [![Tools](https://skillicons.dev/icons?i=docker,git,github,sqlite,postgres,linux&theme=dark&perline=6)](https://skillicons.dev)
 
@@ -65,11 +69,11 @@ status  : always learning ⚡
 
 ---
 
-### 📈 Contribution Activity
+### ⚡ Contributions
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=teus123321&bg_color=0A0F1E&color=FFD700&line=3D8BFF&point=FFD700&area_color=1A3EBF&area=true&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="./assets/shock-divider.svg" width="100%" alt="electric shock effect"/>
 
 </div>
 
