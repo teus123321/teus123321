@@ -73,7 +73,11 @@ status  : always learning ⚡
 
 <div align="center">
 
-<img src="./assets/shock-divider.svg" width="100%" alt="electric shock effect"/>
+<img src="./assets/shock-top.svg" width="100%" alt="electric shock top"/>
+
+<img src="https://ghchart.rshah.org/FFD700/teus123321" width="100%" alt="contribution chart"/>
+
+<img src="./assets/shock-bottom.svg" width="100%" alt="electric shock bottom"/>
 
 </div>
 
