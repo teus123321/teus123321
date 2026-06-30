@@ -1,0 +1,14 @@
+<svg width="100%" viewBox="0 0 680 40" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Electric bottom accent</title>
+<desc>Thin animated lightning streak accent bar</desc>
+<style>
+.bolt{fill:#FFD700}
+.arc{fill:none;stroke:#3D8BFF;stroke-width:2;stroke-linecap:round}
+</style>
+<path class="arc" d="M20 20 Q60 35 100 20 Q140 5 180 20 Q220 35 260 20 Q300 5 340 20 Q380 35 420 20 Q460 5 500 20 Q540 35 580 20 Q620 5 660 20">
+<animate attributeName="opacity" values="1;0.3;1" dur="1s" repeatCount="indefinite"/>
+</path>
+<polygon class="bolt" points="365,5 350,22 362,22 348,38 375,18 363,18">
+<animate attributeName="opacity" values="0.4;1;0.4" dur="0.5s" repeatCount="indefinite"/>
+</polygon>
+</svg>
