@@ -54,28 +54,6 @@ status  : always learning ⚡
 
 ---
 
-### 📊 Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=teus123321&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0A0F1E&title_color=FFD700&icon_color=3D8BFF&text_color=AACFFF&ring_color=FFD700"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teus123321&layout=compact&langs_count=6&hide_border=true&bg_color=0A0F1E&title_color=FFD700&text_color=AACFFF"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=teus123321&theme=dark&hide_border=true&background=0A0F1E&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=3D8BFF&currStreakNum=FFFFFF&sideNums=AACFFF&dates=555E82)](https://git.io/streak-stats)
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=teus123321&theme=darkhub&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true&title_color=FFD700)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ### 🔗 Contato
 
