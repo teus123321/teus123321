@@ -69,14 +69,15 @@ status  : always learning ⚡
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teus123321/teus123321/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/teus123321/teus123321/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/teus123321/teus123321/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,60:1A3EBF,100:0A0F1E&height=120&section=footer&reversal=false"/>
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teus123321/teus123321/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/teus123321/teus123321/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/teus123321/teus123321/output/github-contribution-grid-snake.svg" />
-</picture>
