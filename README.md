@@ -58,9 +58,7 @@ status  : sempre aprendendo ⚡
 ### 🛠️ Meus Princípios de Desenvolvimento
 
 * **Código Simples:** Prefiro soluções diretas a abstrações desnecessárias. Menos complexidade significa menos bugs.
-* **Ferramenta Certa para o Trabalho:** Uso Python e FastAPI para prototipagem rápida e APIs leves, e estou aprofundando em Java para arquiteturas de nível empresarial.
-* **Visão de Infraestrutura:** Escrevo código pensando em como ele vai se comportar na rede, garantindo performance e monitoramento adequados.
-  
+
 ---
  
 <div align="center">
