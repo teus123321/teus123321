@@ -57,7 +57,11 @@ status  : sempre aprendendo ⚡
  
 ### 🌐 Minha Odisséia de Desenvolvimento
  
-https://github.com/teus123321/teus123321/raw/main/odyssey.mp4
+
+
+https://github.com/user-attachments/assets/054f594e-14d9-4e9a-b93c-841714a7d535
+
+
 
 ---
  
