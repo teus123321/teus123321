@@ -55,17 +55,12 @@ status  : sempre aprendendo ⚡
 </div>
 ---
  
-### 📊 GitHub Stats
+### 🌐 Minha Odisséia de Desenvolvimento
  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teus123321&show_icons=true&hide_title=false&title_color=00F5D4&icon_color=C77DFF&text_color=FFFFFF&bg_color=0D0221&border_color=5B0E9E&hide_border=false" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teus123321&layout=compact&title_color=00F5D4&icon_color=C77DFF&text_color=FFFFFF&bg_color=0D0221&border_color=5B0E9E&hide_border=false" alt="Top Languages" height="165"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teus123321&background=0D0221&ring=00F5D4&fire=C77DFF&currStreakLabel=00F5D4&sideLabels=FFFFFF&sideNums=FFFFFF&dates=AACFFF&border=5B0E9E" alt="GitHub Streak"/>
-  <br/><br/>
- 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teus123321&bg_color=0D0221&color=00F5D4&line=C77DFF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="URL_DA_SUA_IMAGEM_AQUI" alt="Teus Developer Odyssey: Uma representação visual de habilidades, aprendizado e contribuições como um mapa de cidade isométrica, com Python, Java, Docker, Linux, e mais." width="100%" />
 </div>
+
 ---
  
 <div align="center">
