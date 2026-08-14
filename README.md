@@ -55,14 +55,12 @@ status  : sempre aprendendo ⚡
 </div>
 ---
  
-### 🌐 Minha Odisséia de Desenvolvimento
- 
+### 🛠️ Meus Princípios de Desenvolvimento
 
-
-https://github.com/user-attachments/assets/054f594e-14d9-4e9a-b93c-841714a7d535
-
-
-
+* **Código Simples:** Prefiro soluções diretas a abstrações desnecessárias. Menos complexidade significa menos bugs.
+* **Ferramenta Certa para o Trabalho:** Uso Python e FastAPI para prototipagem rápida e APIs leves, e estou aprofundando em Java para arquiteturas de nível empresarial.
+* **Visão de Infraestrutura:** Escrevo código pensando em como ele vai se comportar na rede, garantindo performance e monitoramento adequados.
+  
 ---
  
 <div align="center">
