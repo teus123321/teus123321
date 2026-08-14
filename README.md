@@ -58,7 +58,7 @@ status  : sempre aprendendo ⚡
 ### 🌐 Minha Odisséia de Desenvolvimento
  
 <div align="center">
-  <img src="./odyssey.jpg" alt="Teus Developer Odyssey: Uma representação visual de habilidades, aprendizado e contribuições como um mapa de cidade isométrica, com Python, Java, Docker, Linux, e mais." width="100%" />
+  <img src="https://raw.githubusercontent.com/teus123321/teus123321/main/odyssey.jpg" alt="Teus Developer Odyssey: Uma representação visual de habilidades, aprendizado e contribuições como um mapa de cidade isométrica, com Python, Java, Docker, Linux, e mais." width="100%" />
 </div>
 
 ---
