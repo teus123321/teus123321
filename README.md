@@ -12,7 +12,7 @@
     <tr>
       <td align="center" width="50%">
         <h3 style="color: #00F5D4;">[ VISUAL.MAP ]</h3>
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&multiline=true&width=350&height=180&lines=Initializing+core_modules...;Training+AI_Models...;Compiling+Java_Executables...;Writing+Clean_Code...;System+Ready.+" alt="Visual Map" />
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&multiline=true&width=350&height=180&lines=Initializing+core_modules...;Writing+Code+With+Purpose...;Exploring+Tech+Stacks...;Building+Solutions...;System+Ready.+" alt="Visual Map" />
       </td>
       <td align="left" width="50%">
         <h3 style="color: #C77DFF;" align="center">[ SYSTEM.INFO ]</h3>
@@ -23,8 +23,8 @@
           role&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Software&nbsp;Engineer<br>
           origin&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Pontes&nbsp;e&nbsp;Lacerda,&nbsp;MT<br>
           education&nbsp;:&nbsp;Info&nbsp;Systems&nbsp;@&nbsp;IFMT<br>
-          domain&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;AI&nbsp;Research<br>
-          status&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Open&nbsp;to&nbsp;Java&nbsp;Roles&nbsp;☕
+          domain&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Software&nbsp;Dev&nbsp;&amp;&nbsp;Research<br>
+          status&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Student&nbsp;&amp;&nbsp;Lang&nbsp;Agnostic&nbsp;⚡
         </code>
       </td>
     </tr>
