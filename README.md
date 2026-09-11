@@ -49,9 +49,12 @@ status  : always learning ⚡
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=teus123321&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D0221&title_color=00F5D4&icon_color=C77DFF&text_color=ffffff" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teus123321&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D0221&title_color=00F5D4&text_color=ffffff" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=teus123321&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D0221&title_color=00F5D4&icon_color=C77DFF&text_color=ffffff" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=teus123321&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D0221&title_color=00F5D4&text_color=ffffff" alt="Top Languages" height="165"/>
 </div>
+
+<!-- If the cards above ever go blank again, it is the shared vercel.app service being rate-limited (common, not something broken in your file) — refresh the page after a minute, or self-host your own copy following https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
+
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=teus123321&theme=dark&hide_border=true&background=0D0221&ring=00F5D4&fire=C77DFF&currStreakLabel=00F5D4" alt="GitHub Streak"/>
