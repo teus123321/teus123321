@@ -24,7 +24,7 @@
           origin&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Pontes&nbsp;e&nbsp;Lacerda,&nbsp;MT<br>
           education&nbsp;:&nbsp;Info&nbsp;Systems&nbsp;@&nbsp;IFMT<br>
           domain&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Software&nbsp;Dev&nbsp;&amp;&nbsp;Research<br>
-          status&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Student&nbsp;&amp;&nbsp;Lang&nbsp;Agnostic&nbsp;⚡
+          status&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Student&nbsp;⚡
         </code>
       </td>
     </tr>
