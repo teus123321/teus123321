@@ -1,32 +1,76 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,35:2E0854,70:5B0E9E,100:00F5D4&height=220&section=header&text=Mateus%20H&fontSize=85&fontColor=00F5D4&animation=twinkling&fontAlignY=40&desc=Software%20Developer%20%E2%9A%A1%20IFMT%20Pontes%20e%20Lacerda&descAlignY=60&descColor=C77DFF&descSize=18"/>
-
-<br/>
-
-<a href="https://github.com/teus123321">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=60&lines=%E2%9A%A1+Writing+code+with+purpose;%F0%9F%90%8D+Python+%7C+%E2%98%95+Java+%7C+%F0%9F%8C%90+JavaScript;%F0%9F%92%BB+HTML+%7C+CSS+%7C+Git+%26+GitHub;%F0%9F%90%A7+Linux+%7C+%F0%9F%90%AC+MySQL+%7C+%F0%9F%90%B3+Docker" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=teus123321&color=00F5D4&style=flat-square&label=profile+views" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/teus123321?tab=followers">
-  <img src="https://img.shields.io/github/followers/teus123321?label=followers&style=flat-square&color=C77DFF&labelColor=0D0221&logo=github" alt="GitHub followers"/>
-</a>
+  <h1 style="color: #00F5D4; font-family: monospace;"> ❯ ./mateus_h.sh </h1>
+  <p style="color: #C77DFF; font-family: monospace;">
+    Establishing secure connection to IFMT node... Connected. ⚡
+  </p>
 </div>
 
 ---
 
-<img align="right" alt="coding gif" width="310" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<br/>
 
-### `$ whoami`
+<div align="center">
+  <table width="100%" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td valign="top" width="50%" align="center">
+        <h3 align="center"><code style="color: #00F5D4; background-color: transparent;">[ VISUAL.MAP ]</code></h3>
+        <br/>
+        <a href="https://github.com/teus123321">
+          <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&multiline=true&width=400&height=220&lines=Initializing+core+modules...;Scanning+5.8+GHz+%26+Wired+Networks...;Loading+Python+%26+FastAPI+Backend...;Compiling+Java+Executables...;Bootstrapping+PostgreSQL...;System+Ready.+" alt="Terminal Boot Sequence" />
+        </a>
+      </td>
+      
+      <td valign="top" width="50%">
+        <h3><code style="color: #C77DFF; background-color: transparent;">SYSTEM.INFO</code></h3>
+        <pre lang="yaml" style="background-color: #0D1117; border: 1px solid #C77DFF; border-radius: 8px; padding: 15px;">
+target     : Mateus Henrique
+alias      : teus123321
+role       : Backend Developer & Network Tech
+origin     : Pontes e Lacerda, MT - Brazil
+education  : B.S. Information Systems @ IFMT
+core_stack : [Python, Java, FastAPI]
+domain     : Core Network Monitoring & APIs
+database   : PostgreSQL
+status     : Open to Junior Java Roles ☕
+        </pre>
+      </td>
+    </tr>
+  </table>
+</div>
 
-```yaml
-name    : Mateus H
-alias   : teus123321
-course  : Information Systems — IFMT
-role    : Developer
-goal    : Code that solves real problems
-email   : mateushgds75@gmail.com
-status  : always learning ⚡
+<br/>
+
+<div align="center">
+  <h3 style="color: #00F5D4; font-family: monospace;"> ❯ execute profile_stats.py </h3>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=teus123321&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=A9B1D6&icon_color=C77DFF" alt="Mateus GitHub Stats" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teus123321&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=A9B1D6" alt="Mateus Top Languages" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3 style="color: #C77DFF; font-family: monospace;"> ❯ ls ./tech_stack/ </h3>
+  <br/>
+  <p>
+    <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F5D4&border=C77DFF" alt="Python" />
+    <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00F5D4" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00F5D4" alt="Java" />
+    <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=C77DFF" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=C77DFF" alt="React Native" />
+    <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=C77DFF" alt="Django" />
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=teus123321&color=00F5D4&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mateushgds75/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=flat-square&logo=linkedin&logoColor=00F5D4&color=C77DFF" alt="LinkedIn" />
+  </a>
+</div>
