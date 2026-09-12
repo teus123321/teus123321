@@ -61,7 +61,7 @@
           &nbsp;&nbsp;<span style="color: #A9B1D6;">"user"</span>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #00F5D4;">"teus123321"</span>,<br>
           &nbsp;&nbsp;<span style="color: #A9B1D6;">"commits_ytd"</span>:&nbsp;&nbsp;&nbsp;<span style="color: #00F5D4;">"Actively building 🏗️"</span>,<br>
           &nbsp;&nbsp;<span style="color: #A9B1D6;">"repositories"</span>:&nbsp;&nbsp;<span style="color: #00F5D4;">"Continuous Integration ⚙️"</span>,<br>
-          &nbsp;&nbsp;<span style="color: #A9B1D6;">"top_stack"</span>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #00F5D4;">["Java", "Python", "Next.js", "Docker"]</span>,<br>
+          &nbsp;&nbsp;<span style="color: #A9B1D6;">"top_stack"</span>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #00F5D4;">["Java", "Python", "CSS", "HTML", "JavaScript/TypeScript", "Git", "C"]</span>,<br>
           &nbsp;&nbsp;<span style="color: #A9B1D6;">"current_focus"</span>:&nbsp;<span style="color: #00F5D4;">"Software Engineering &amp; AI Research"</span><br>
           <span style="color: #C77DFF;">}</span><br>
           <br>
