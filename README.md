@@ -34,21 +34,32 @@
 <br/>
 
 <div align="center">
-  <h3 style="color: #C77DFF; font-family: monospace;">❯ execute profile_stats.py</h3>
+  <h3 style="color: #00F5D4; font-family: monospace;">❯ ls ./tech_stack/</h3>
 
-  <a href="https://github.com/teus123321">
-    <img src="https://github-readme-stats.vercel.app/api?username=teus123321&amp;show_icons=true&amp;hide_border=false&amp;bg_color=0D1117&amp;border_color=C77DFF&amp;title_color=00F5D4&amp;text_color=A9B1D6&amp;icon_color=C77DFF&amp;border_radius=0" alt="Mateus GitHub Stats" />
-  </a>
-  <a href="https://github.com/teus123321">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teus123321&amp;layout=compact&amp;hide_border=false&amp;bg_color=0D1117&amp;border_color=00F5D4&amp;title_color=C77DFF&amp;text_color=A9B1D6&amp;border_radius=0" alt="Mateus Top Languages" />
-  </a>
+  ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00F5D4)
+  ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00F5D4)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00F5D4)
+  ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=C77DFF)
+  ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=C77DFF)
+  ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=C77DFF)
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=teus123321&amp;color=00F5D4&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views" />
+  <h3 style="color: #C77DFF; font-family: monospace;">❯ execute profile_stats.py</h3>
+
+[![Mateus GitHub Stats](https://github-readme-stats.vercel.app/api?username=teus123321&show_icons=true&hide_border=false&bg_color=0D1117&border_color=C77DFF&title_color=00F5D4&text_color=A9B1D6&icon_color=C77DFF&border_radius=0)](https://github.com/teus123321)
+[![Mateus Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teus123321&layout=compact&hide_border=false&bg_color=0D1117&border_color=00F5D4&title_color=C77DFF&text_color=A9B1D6&border_radius=0)](https://github.com/teus123321)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=teus123321&color=00F5D4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/mateushgds75/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=00F5D4&amp;color=C77DFF" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5D4&color=C77DFF" alt="LinkedIn" />
   </a>
 </div>
