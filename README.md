@@ -50,8 +50,26 @@
 <div align="center">
   <h3 style="color: #C77DFF; font-family: monospace;">❯ execute profile_stats.py</h3>
 
-[![Mateus GitHub Stats](https://github-readme-stats.vercel.app/api?username=teus123321&show_icons=true&hide_border=false&bg_color=0D1117&border_color=C77DFF&title_color=00F5D4&text_color=A9B1D6&icon_color=C77DFF&border_radius=0)](https://github.com/teus123321)
-[![Mateus Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teus123321&layout=compact&hide_border=false&bg_color=0D1117&border_color=00F5D4&title_color=C77DFF&text_color=A9B1D6&border_radius=0)](https://github.com/teus123321)
+  <table width="600">
+    <tr>
+      <td align="left" style="background-color: #0D1117; border: 1px solid #00F5D4; padding: 20px; border-radius: 8px;">
+        <code>
+          <span style="color: #C77DFF;">$</span> <span style="color: #A9B1D6;">Connecting to GitHub API...</span> <span style="color: #00F5D4;">[OK]</span><br>
+          <span style="color: #C77DFF;">$</span> <span style="color: #A9B1D6;">Parsing developer metrics...</span> <span style="color: #00F5D4;">[OK]</span><br>
+          <br>
+          <span style="color: #C77DFF;">{</span><br>
+          &nbsp;&nbsp;<span style="color: #A9B1D6;">"user"</span>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #00F5D4;">"teus123321"</span>,<br>
+          &nbsp;&nbsp;<span style="color: #A9B1D6;">"commits_ytd"</span>:&nbsp;&nbsp;&nbsp;<span style="color: #00F5D4;">"Actively building 🏗️"</span>,<br>
+          &nbsp;&nbsp;<span style="color: #A9B1D6;">"repositories"</span>:&nbsp;&nbsp;<span style="color: #00F5D4;">"Continuous Integration ⚙️"</span>,<br>
+          &nbsp;&nbsp;<span style="color: #A9B1D6;">"top_stack"</span>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #00F5D4;">["Java", "Python", "Next.js", "Docker"]</span>,<br>
+          &nbsp;&nbsp;<span style="color: #A9B1D6;">"current_focus"</span>:&nbsp;<span style="color: #00F5D4;">"Software Engineering &amp; AI Research"</span><br>
+          <span style="color: #C77DFF;">}</span><br>
+          <br>
+          <span style="color: #A9B1D6;">Process finished with exit code 0</span>
+        </code>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
