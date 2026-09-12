@@ -37,18 +37,18 @@
   <h3 style="color: #C77DFF; font-family: monospace;">❯ execute profile_stats.py</h3>
 
   <a href="https://github.com/teus123321">
-    <img src="https://github-readme-stats.vercel.app/api?username=teus123321&show_icons=true&hide_border=false&bg_color=0D1117&border_color=C77DFF&title_color=00F5D4&text_color=A9B1D6&icon_color=C77DFF&border_radius=0" alt="Mateus GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=teus123321&amp;show_icons=true&amp;hide_border=false&amp;bg_color=0D1117&amp;border_color=C77DFF&amp;title_color=00F5D4&amp;text_color=A9B1D6&amp;icon_color=C77DFF&amp;border_radius=0" alt="Mateus GitHub Stats" />
   </a>
   <a href="https://github.com/teus123321">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teus123321&layout=compact&hide_border=false&bg_color=0D1117&border_color=00F5D4&title_color=C77DFF&text_color=A9B1D6&border_radius=0" alt="Mateus Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teus123321&amp;layout=compact&amp;hide_border=false&amp;bg_color=0D1117&amp;border_color=00F5D4&amp;title_color=C77DFF&amp;text_color=A9B1D6&amp;border_radius=0" alt="Mateus Top Languages" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=teus123321&color=00F5D4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=teus123321&amp;color=00F5D4&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/mateushgds75/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5D4&color=C77DFF" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=00F5D4&amp;color=C77DFF" alt="LinkedIn" />
   </a>
 </div>
