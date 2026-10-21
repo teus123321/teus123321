@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/mateus-astronauta.jpg" width="100%" alt="Mateus Henrique | Programador — astronauta no espaço" />
+  <img src="./assets/mateus-space-code.svg" width="100%" alt="Mateus Henrique | Programador — código C com tema espacial" />
 </p>
 
 ### Sobre mim
