@@ -1,83 +1,60 @@
-<div align="center">
-  <h2 style="color: #00F5D4; font-family: monospace;">❯ ./mateus_h.sh</h2>
-  <p style="color: #C77DFF; font-family: monospace;">
-    Establishing secure connection to IFMT node... Connected. ⚡
-  </p>
-</div>
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Mateus Henrique — Back-end, inteligência artificial e visão computacional" />
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mateushgds75/"><b>LinkedIn</b></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/teus123321?tab=repositories"><b>Repositórios</b></a>
+  &nbsp; · &nbsp;
+  <a href="#projetos-em-destaque"><b>Projetos em destaque</b></a>
+</p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3 style="color: #00F5D4;">[ VISUAL.MAP ]</h3>
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&multiline=true&width=350&height=180&lines=Initializing+core_modules...;Writing+Code+With+Purpose...;Exploring+Tech+Stacks...;Building+Solutions...;System+Ready.+" alt="Visual Map" />
-      </td>
-      <td align="left" width="50%">
-        <h3 style="color: #C77DFF;" align="center">[ SYSTEM.INFO ]</h3>
-        <code>
-          $&nbsp;whoami<br><br>
-          target&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Mateus&nbsp;Henrique<br>
-          alias&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;teus123321<br>
-          role&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Software&nbsp;Engineer<br>
-          origin&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Pontes&nbsp;e&nbsp;Lacerda,&nbsp;MT<br>
-          education&nbsp;:&nbsp;Info&nbsp;Systems&nbsp;@&nbsp;IFMT<br>
-          domain&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Software&nbsp;Dev&nbsp;&amp;&nbsp;Research<br>
-          status&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Student&nbsp;⚡
-        </code>
-      </td>
-    </tr>
-  </table>
-</div>
+## Sobre mim
 
-<br/>
+Sou Mateus, graduando em Sistemas de Informação no IFMT. Desenvolvo APIs e participo de pesquisas em inteligência artificial e visão computacional, com interesse em integrar modelos de IA a aplicações úteis.
 
-<div align="center">
-  <h3 style="color: #00F5D4; font-family: monospace;">❯ ls ./tech_stack/</h3>
+Atualmente trabalho em um NOC, com monitoramento de redes, análise de logs e diagnóstico de falhas. Levo essa prática de investigação para os projetos de software: entender o problema, testar hipóteses e avaliar os resultados.
 
-  ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00F5D4)
-  ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00F5D4)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00F5D4)
-  ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=C77DFF)
-  ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=C77DFF)
-  ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=C77DFF)
+**Busco oportunidades de estágio em desenvolvimento de software**, com foco em back-end e interesse em aplicações de inteligência artificial.
 
-</div>
+## Projetos em destaque
 
-<br/>
+### 01 / Benchmark de OCR e modelos multimodais
+Comparação de ferramentas de OCR e modelos multimodais no reconhecimento de identificadores de chassi e motor. O projeto reúne preparação de imagens, execução dos modelos e avaliação por taxa de erro por caractere, acerto integral, cobertura e tempo de processamento.
 
-<div align="center">
-  <h3 style="color: #C77DFF; font-family: monospace;">❯ execute profile_stats.py</h3>
+`Python` `EasyOCR` `PaddleOCR` `Qwen` `Ollama`
 
-  <table width="600">
-    <tr>
-      <td align="left" style="background-color: #0D1117; border: 1px solid #00F5D4; padding: 20px; border-radius: 8px;">
-        <code>
-          <span style="color: #C77DFF;">$</span> <span style="color: #A9B1D6;">Connecting to GitHub API...</span> <span style="color: #00F5D4;">[OK]</span><br>
-          <span style="color: #C77DFF;">$</span> <span style="color: #A9B1D6;">Parsing developer metrics...</span> <span style="color: #00F5D4;">[OK]</span><br>
-          <br>
-          <span style="color: #C77DFF;">{</span><br>
-          &nbsp;&nbsp;<span style="color: #A9B1D6;">"user"</span>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #00F5D4;">"teus123321"</span>,<br>
-          &nbsp;&nbsp;<span style="color: #A9B1D6;">"commits_ytd"</span>:&nbsp;&nbsp;&nbsp;<span style="color: #00F5D4;">"Actively building 🏗️"</span>,<br>
-          &nbsp;&nbsp;<span style="color: #A9B1D6;">"repositories"</span>:&nbsp;&nbsp;<span style="color: #00F5D4;">"Continuous Integration ⚙️"</span>,<br>
-          &nbsp;&nbsp;<span style="color: #A9B1D6;">"top_stack"</span>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #00F5D4;">["Java", "Python", "CSS", "HTML", "JavaScript/TypeScript", "Git", "C"]</span>,<br>
-          &nbsp;&nbsp;<span style="color: #A9B1D6;">"current_focus"</span>:&nbsp;<span style="color: #00F5D4;">"Software Engineering &amp; AI Research"</span><br>
-          <span style="color: #C77DFF;">}</span><br>
-          <br>
-          <span style="color: #A9B1D6;">Process finished with exit code 0</span>
-        </code>
-      </td>
-    </tr>
-  </table>
+[Explorar pesquisa e experimentos →](https://github.com/teus123321/benchmark-ocr)
 
-</div>
+---
 
-<br/>
+### 02 / Cinerama API
+API para um catálogo de filmes, com integração ao TMDB, cadastro de usuários, autenticação JWT e persistência em banco de dados relacional.
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=teus123321&color=00F5D4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/mateushgds75/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5D4&color=C77DFF" alt="LinkedIn" />
-  </a>
-</div>
+`TypeScript` `Node.js` `PostgreSQL` `Prisma` `Docker`
+
+[Conhecer o projeto →](https://github.com/teus123321/cinerama-website-filmes-save)
+
+---
+
+### 03 / Estudos em Sistemas de Informação
+Exercícios, atividades e projetos desenvolvidos durante o bacharelado no IFMT. Um registro da minha evolução em programação e dos fundamentos que aplico nos projetos.
+
+[Ver atividades e códigos →](https://github.com/teus123321/Estudos)
+
+## Tecnologias e estudos
+
+| Área | Tecnologias e temas |
+| :--- | :--- |
+| Desenvolvimento back-end | Python, FastAPI, Pydantic, SQL |
+| Base de programação | JavaScript, Java, C, HTML e CSS |
+| Pesquisa e IA | OCR, modelos multimodais, processamento de imagens e avaliação experimental |
+| Ferramentas | Git, GitHub, análise de logs e diagnóstico de problemas |
+| Aprofundamento atual | React, RAG, fine-tuning e integração de IA a sistemas |
+
+## Vamos conversar?
+
+Tenho interesse em equipes nas quais eu possa contribuir com código, aprender com revisões e participar da construção de aplicações reais.
+
+**[Entre em contato pelo LinkedIn →](https://www.linkedin.com/in/mateushgds75/)**
