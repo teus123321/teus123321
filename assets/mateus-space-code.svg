@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">Mateus Henrique — Programador</title>
+<desc id="desc">Código em C sobre fundo espacial azul-escuro, com estrelas discretas e a curva iluminada de um planeta. Sem personagens.</desc>
+<defs>
+<linearGradient id="space" x2="1" y2="1"><stop stop-color="#080d15"/><stop offset="1" stop-color="#111f32"/></linearGradient>
+<radialGradient id="planet"><stop stop-color="#1b3552"/><stop offset=".8" stop-color="#0b1727"/><stop offset="1" stop-color="#080d15"/></radialGradient>
+<linearGradient id="orbit" x2="1" y2="0"><stop stop-color="#72b5e8" stop-opacity="0"/><stop offset=".65" stop-color="#72b5e8" stop-opacity=".5"/><stop offset="1" stop-color="#cee9ff" stop-opacity=".7"/></linearGradient>
+<clipPath id="bounds"><rect width="1200" height="390" rx="12"/></clipPath>
+</defs>
+<g clip-path="url(#bounds)">
+<rect width="1200" height="390" fill="url(#space)"/>
+<g fill="#b9d7f0">
+<circle cx="843" cy="43" r="1" opacity=".6"/><circle cx="1034" cy="72" r="1.5" opacity=".7"/><circle cx="1142" cy="34" r="1" opacity=".5"/><circle cx="950" cy="143" r=".8" opacity=".45"/><circle cx="780" cy="185" r="1.2" opacity=".5"/><circle cx="1131" cy="192" r="1" opacity=".7"/><circle cx="901" cy="250" r="1" opacity=".5"/><circle cx="686" cy="49" r=".8" opacity=".4"/><circle cx="1072" cy="276" r="1.3" opacity=".5"/><circle cx="718" cy="325" r=".7" opacity=".4"/>
+</g>
+<circle cx="1140" cy="700" r="410" fill="url(#planet)" stroke="url(#orbit)" stroke-width="2"/>
+<path d="M1072 111v12m-6-6h12" stroke="#badcf7" opacity=".6"/>
+<path d="M46 63H1154" stroke="#273548" stroke-opacity=".7"/>
+<g font-family="'Courier New',monospace">
+<text x="48" y="40" font-size="14" fill="#93adc4">mateus.c</text>
+<text x="1150" y="40" text-anchor="end" font-size="11" letter-spacing="3" fill="#607b94">SOURCE / C</text>
+<g fill="#455b70" font-size="20" text-anchor="end">
+<text x="64" y="109">1</text><text x="64" y="145">2</text><text x="64" y="181">3</text><text x="64" y="217">4</text><text x="64" y="253">5</text><text x="64" y="289">6</text><text x="64" y="325">7</text>
+</g>
+<g font-size="23" fill="#dce7f2">
+<text x="92" y="109"><tspan fill="#79b9e8">#include</tspan> <tspan fill="#b5cee4">&lt;stdio.h&gt;</tspan></text>
+<text x="92" y="181"><tspan fill="#79b9e8">int</tspan> <tspan fill="#dce7f2">main</tspan>(<tspan fill="#79b9e8">void</tspan>) {</text>
+<text x="92" y="217">    printf(<tspan fill="#b5cee4">"Mateus Henrique\n"</tspan>);</text>
+<text x="92" y="253">    printf(<tspan fill="#b5cee4">"Programador\n"</tspan>);</text>
+<text x="92" y="289">    <tspan fill="#79b9e8">return</tspan> <tspan fill="#b5cee4">0</tspan>;</text>
+<text x="92" y="325">}</text>
+</g>
+<text x="48" y="369" font-size="12" fill="#667e94">CÓDIGO, ESTUDO E PESQUISA.</text>
+</g>
+</g>
+</svg>
