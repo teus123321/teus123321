@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/mateus-c-pointers.svg" width="100%" alt="Mateus Henrique | Programador — ponteiros em C com sintaxe colorida em fundo cinza-escuro" />
+  <img src="./assets/mateus-apresentacao-c.svg" width="100%" alt="Mateus Henrique | Programador — apresentação em C sobre fundo preto" />
 </p>
 
 ### Sobre mim
