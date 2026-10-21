@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/mateus-pixel-stone.svg" width="100%" alt="Mateus Henrique | Programador — pedra cinza pixelada" />
+  <img src="./assets/mateus-astronauta.jpg" width="100%" alt="Mateus Henrique | Programador — astronauta no espaço" />
 </p>
 
 ### Sobre mim
@@ -9,16 +9,16 @@ Sou Mateus Henrique, programador e estudante do bacharelado em Sistemas de Infor
 ### Stack
 
 <p>
-  <img src="https://img.shields.io/badge/C-303030?style=for-the-badge&amp;logo=c&amp;logoColor=D8D8D8" alt="C" />
-  <img src="https://img.shields.io/badge/Python-303030?style=for-the-badge&amp;logo=python&amp;logoColor=D8D8D8" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-303030?style=for-the-badge&amp;logo=openjdk&amp;logoColor=D8D8D8" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-303030?style=for-the-badge&amp;logo=javascript&amp;logoColor=D8D8D8" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-303030?style=for-the-badge&amp;logo=sqlite&amp;logoColor=D8D8D8" alt="SQL" />
+  <img src="https://img.shields.io/badge/C-101923?style=for-the-badge&amp;logo=c&amp;logoColor=9BCBEE" alt="C" />
+  <img src="https://img.shields.io/badge/Python-101923?style=for-the-badge&amp;logo=python&amp;logoColor=9BCBEE" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-101923?style=for-the-badge&amp;logo=openjdk&amp;logoColor=9BCBEE" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-101923?style=for-the-badge&amp;logo=javascript&amp;logoColor=9BCBEE" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-101923?style=for-the-badge&amp;logo=sqlite&amp;logoColor=9BCBEE" alt="SQL" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/HTML-303030?style=for-the-badge&amp;logo=html5&amp;logoColor=D8D8D8" alt="HTML" />
-  <img src="https://img.shields.io/badge/Git-303030?style=for-the-badge&amp;logo=git&amp;logoColor=D8D8D8" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-303030?style=for-the-badge&amp;logo=github&amp;logoColor=D8D8D8" alt="GitHub" />
+  <img src="https://img.shields.io/badge/HTML-101923?style=for-the-badge&amp;logo=html5&amp;logoColor=9BCBEE" alt="HTML" />
+  <img src="https://img.shields.io/badge/Git-101923?style=for-the-badge&amp;logo=git&amp;logoColor=9BCBEE" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-101923?style=for-the-badge&amp;logo=github&amp;logoColor=9BCBEE" alt="GitHub" />
 </p>
 
 ---
