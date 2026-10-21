@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<title id="title">Mateus Henrique | Programador</title>
+<desc id="desc">Terminal minimalista em preto e cinza, com tipografia monoespaçada e detalhes verdes.</desc>
+<rect x="1" y="1" width="1198" height="278" rx="8" fill="#101311" stroke="#303832"/>
+<path d="M1 42H1199" stroke="#303832"/>
+<circle cx="24" cy="22" r="4" fill="#647069"/><circle cx="42" cy="22" r="4" fill="#647069"/><circle cx="60" cy="22" r="4" fill="#91ad85"/>
+<text x="92" y="27" font-family="monospace" font-size="13" fill="#87938b">mateus.c</text>
+<text x="44" y="91" font-family="monospace" font-size="17" fill="#91ad85">// PROGRAMADOR</text>
+<text x="41" y="153" font-family="monospace" font-size="49" font-weight="bold" fill="#e0e5e0">Mateus Henrique<tspan fill="#91ad85">_</tspan></text>
+<text x="44" y="202" font-family="monospace" font-size="19" fill="#a0aba3">Código, estudo e pesquisa.</text>
+<text x="44" y="249" font-family="monospace" font-size="13" fill="#69776e">0x0000</text>
+<path d="M118 244H1155" stroke="#29342d"/>
+<text x="985" y="102" font-family="monospace" font-size="17" fill="#54665a">int main(void)</text>
+<text x="985" y="137" font-family="monospace" font-size="20" fill="#748c77">{</text>
+<text x="1004" y="173" font-family="monospace" font-size="17" fill="#91ad85">return 0;</text>
+<text x="985" y="209" font-family="monospace" font-size="20" fill="#748c77">}</text>
+</svg>
