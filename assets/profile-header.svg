@@ -1,15 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-<title id="title">Mateus Henrique — Desenvolvimento de software</title>
-<desc id="desc">Back-end, inteligência artificial e visão computacional. Cabeçalho azul e violeta sobre fundo escuro.</desc>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#191a36"/></linearGradient><linearGradient id="accent"><stop stop-color="#69d7ff"/><stop offset="1" stop-color="#b49aff"/></linearGradient></defs>
-<rect width="1200" height="320" rx="18" fill="url(#bg)"/>
-<rect x="48" y="51" width="44" height="4" rx="2" fill="url(#accent)"/>
-<text x="48" y="94" font-family="Arial,sans-serif" font-size="15" letter-spacing="4" fill="#9eaac3">DESENVOLVIMENTO DE SOFTWARE</text>
-<text x="45" y="166" font-family="Arial,sans-serif" font-size="60" font-weight="700" fill="#f0f6fc">Mateus Henrique</text>
-<text x="48" y="213" font-family="Arial,sans-serif" font-size="23" fill="#b8c6df">Back-end · Inteligência artificial · Visão computacional</text>
-<text x="48" y="274" font-family="Arial,sans-serif" font-size="16" fill="#8b9ab4">PONTES E LACERDA, MT</text>
-<circle cx="1040" cy="150" r="92" fill="none" stroke="#303957"/>
-<circle cx="1040" cy="150" r="115" fill="none" stroke="#252c45"/>
-<text x="1040" y="176" text-anchor="middle" font-family="monospace" font-size="74" font-weight="700" fill="url(#accent)">&lt;/&gt;</text>
-<circle cx="1132" cy="150" r="5" fill="#7ad7ff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<title id="title">Mateus Henrique | Programador</title>
+<desc id="desc">Terminal minimalista em preto e cinza, com tipografia monoespaçada e detalhes verdes.</desc>
+<rect x="1" y="1" width="1198" height="278" rx="8" fill="#101311" stroke="#303832"/>
+<path d="M1 42H1199" stroke="#303832"/>
+<circle cx="24" cy="22" r="4" fill="#647069"/><circle cx="42" cy="22" r="4" fill="#647069"/><circle cx="60" cy="22" r="4" fill="#91ad85"/>
+<text x="92" y="27" font-family="monospace" font-size="13" fill="#87938b">mateus.c</text>
+<text x="44" y="91" font-family="monospace" font-size="17" fill="#91ad85">// PROGRAMADOR</text>
+<text x="41" y="153" font-family="monospace" font-size="49" font-weight="bold" fill="#e0e5e0">Mateus Henrique<tspan fill="#91ad85">_</tspan></text>
+<text x="44" y="202" font-family="monospace" font-size="19" fill="#a0aba3">Código, estudo e pesquisa.</text>
+<text x="44" y="249" font-family="monospace" font-size="13" fill="#69776e">0x0000</text>
+<path d="M118 244H1155" stroke="#29342d"/>
+<text x="985" y="102" font-family="monospace" font-size="17" fill="#54665a">int main(void)</text>
+<text x="985" y="137" font-family="monospace" font-size="20" fill="#748c77">{</text>
+<text x="1004" y="173" font-family="monospace" font-size="17" fill="#91ad85">return 0;</text>
+<text x="985" y="209" font-family="monospace" font-size="20" fill="#748c77">}</text>
 </svg>
