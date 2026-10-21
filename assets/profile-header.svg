@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Mateus Henrique — Desenvolvimento de software</title>
+<desc id="desc">Back-end, inteligência artificial e visão computacional. Cabeçalho azul e violeta sobre fundo escuro.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#191a36"/></linearGradient><linearGradient id="accent"><stop stop-color="#69d7ff"/><stop offset="1" stop-color="#b49aff"/></linearGradient></defs>
+<rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+<rect x="48" y="51" width="44" height="4" rx="2" fill="url(#accent)"/>
+<text x="48" y="94" font-family="Arial,sans-serif" font-size="15" letter-spacing="4" fill="#9eaac3">DESENVOLVIMENTO DE SOFTWARE</text>
+<text x="45" y="166" font-family="Arial,sans-serif" font-size="60" font-weight="700" fill="#f0f6fc">Mateus Henrique</text>
+<text x="48" y="213" font-family="Arial,sans-serif" font-size="23" fill="#b8c6df">Back-end · Inteligência artificial · Visão computacional</text>
+<text x="48" y="274" font-family="Arial,sans-serif" font-size="16" fill="#8b9ab4">PONTES E LACERDA, MT</text>
+<circle cx="1040" cy="150" r="92" fill="none" stroke="#303957"/>
+<circle cx="1040" cy="150" r="115" fill="none" stroke="#252c45"/>
+<text x="1040" y="176" text-anchor="middle" font-family="monospace" font-size="74" font-weight="700" fill="url(#accent)">&lt;/&gt;</text>
+<circle cx="1132" cy="150" r="5" fill="#7ad7ff"/>
+</svg>
