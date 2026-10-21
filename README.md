@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/mateus-space-code.svg" width="100%" alt="Mateus Henrique | Programador — código C com tema espacial" />
+  <img src="./assets/mateus-c-pointers.svg" width="100%" alt="Mateus Henrique | Programador — ponteiros em C com sintaxe colorida em fundo cinza-escuro" />
 </p>
 
 ### Sobre mim
