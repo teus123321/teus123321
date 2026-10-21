@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Mateus Henrique — Programador</title>
+<desc id="desc">Tela de computador antigo, com texto âmbar sobre preto, bordas retas e instruções Assembly decorativas.</desc>
+<defs><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 3.5H4" stroke="#000" stroke-opacity=".22"/></pattern></defs>
+<rect width="1200" height="320" fill="#15120f"/>
+<rect x="12" y="12" width="1176" height="296" fill="#0c0b09" stroke="#665139"/>
+<path d="M28 51H1172M28 271H1172M824 69V252" stroke="#59442c"/>
+<g font-family="'Courier New',monospace">
+<text x="34" y="38" fill="#b8996b" font-size="15" letter-spacing="2">MATEUS.ASM</text>
+<text x="1165" y="38" fill="#b8996b" font-size="13" text-anchor="end">[ SOURCE CODE ]</text>
+<text x="42" y="93" fill="#9f8158" font-size="16">; código, estudo e pesquisa</text>
+<text x="38" y="158" fill="#edbe76" font-size="53" font-weight="bold">Mateus Henrique</text>
+<text x="42" y="207" fill="#d7ac6d" font-size="24" letter-spacing="4">PROGRAMADOR</text>
+<rect x="235" y="188" width="13" height="22" fill="#d7ac6d"/>
+<text x="42" y="246" fill="#816c50" font-size="14">C / MEMÓRIA / INSTRUÇÕES</text>
+<text x="852" y="103" fill="#9f8158" font-size="15">0000  ; entry point</text>
+<text x="852" y="138" fill="#d7ac6d" font-size="17">0000  xor eax, eax</text>
+<text x="852" y="173" fill="#d7ac6d" font-size="17">0002  ret</text>
+<text x="852" y="223" fill="#816c50" font-size="15">[ 31 C0 C3 ]</text>
+<text x="34" y="294" fill="#9f8158" font-size="13">IFMT / SISTEMAS DE INFORMAÇÃO</text>
+<text x="1165" y="294" fill="#9f8158" font-size="13" text-anchor="end">EOF</text>
+</g>
+<rect x="13" y="13" width="1174" height="294" fill="url(#scan)" pointer-events="none"/>
+</svg>
