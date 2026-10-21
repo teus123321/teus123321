@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-labelledby="title desc">
+<title id="title">Apresentação de Mateus Henrique em C</title>
+<desc id="desc">Fundo preto com código C colorido: nome Mateus Henrique, instituto IFMT Campus Pontes e Lacerda, atuação Programador e pesquisador.</desc>
+<rect width="1200" height="470" fill="#080808"/>
+<g font-family="Consolas,'Courier New',monospace" font-size="26" fill="#9CDCFE" xml:space="preserve">
+<text x="54" y="59"><tspan fill="#569CD6">typedef</tspan> <tspan fill="#569CD6">struct</tspan> {</text>
+<text x="54" y="94">    <tspan fill="#569CD6">const</tspan> <tspan fill="#569CD6">char</tspan> *nome;</text>
+<text x="54" y="129">    <tspan fill="#569CD6">const</tspan> <tspan fill="#569CD6">char</tspan> *instituto;</text>
+<text x="54" y="164">    <tspan fill="#569CD6">const</tspan> <tspan fill="#569CD6">char</tspan> *atuacao;</text>
+<text x="54" y="199">} <tspan fill="#4EC9B0">Perfil</tspan>;</text>
+<text x="54" y="234"></text>
+<text x="54" y="269"><tspan fill="#569CD6">const</tspan> <tspan fill="#4EC9B0">Perfil</tspan> mateus = {</text>
+<text x="54" y="304">    .nome      = <tspan fill="#CE9178">"Mateus Henrique"</tspan>,</text>
+<text x="54" y="339">    .instituto = <tspan fill="#CE9178">"IFMT — Campus Pontes e Lacerda"</tspan>,</text>
+<text x="54" y="374">    .atuacao   = <tspan fill="#CE9178">"Programador e pesquisador"</tspan></text>
+<text x="54" y="409">};</text>
+</g></svg>
