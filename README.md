@@ -9,16 +9,16 @@ Sou Mateus Henrique, programador e estudante do bacharelado em Sistemas de Infor
 ### Stack
 
 <p>
-  <img src="https://img.shields.io/badge/C-101923?style=for-the-badge&amp;logo=c&amp;logoColor=9BCBEE" alt="C" />
-  <img src="https://img.shields.io/badge/Python-101923?style=for-the-badge&amp;logo=python&amp;logoColor=9BCBEE" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-101923?style=for-the-badge&amp;logo=openjdk&amp;logoColor=9BCBEE" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-101923?style=for-the-badge&amp;logo=javascript&amp;logoColor=9BCBEE" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-101923?style=for-the-badge&amp;logo=sqlite&amp;logoColor=9BCBEE" alt="SQL" />
+  <img src="https://img.shields.io/badge/C-394F8A?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&amp;logo=python&amp;logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-A33622?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=181818" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-006A70?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQL" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/HTML-101923?style=for-the-badge&amp;logo=html5&amp;logoColor=9BCBEE" alt="HTML" />
-  <img src="https://img.shields.io/badge/Git-101923?style=for-the-badge&amp;logo=git&amp;logoColor=9BCBEE" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-101923?style=for-the-badge&amp;logo=github&amp;logoColor=9BCBEE" alt="GitHub" />
+  <img src="https://img.shields.io/badge/HTML-BB421E?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/Git-8B2434?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-60428A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
 </p>
 
 ---
