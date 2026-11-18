@@ -10,10 +10,12 @@ Sou Mateus Henrique, programador e estudante do bacharelado em Sistemas de Infor
 
 <p>
   <img src="https://img.shields.io/badge/C-394F8A?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/CUDA-4B7100?style=for-the-badge&amp;logo=nvidia&amp;logoColor=white" alt="CUDA" />
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&amp;logo=python&amp;logoColor=FFD43B" alt="Python" />
   <img src="https://img.shields.io/badge/Java-A33622?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=181818" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/SQL-006A70?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQL" />
 </p>
 <p>
