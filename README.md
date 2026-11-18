@@ -20,7 +20,7 @@ Sou Mateus Henrique, programador e estudante do bacharelado em Sistemas de Infor
   <img src="https://img.shields.io/badge/HTML-BB421E?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/Git-8B2434?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-60428A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Linux-374151?style=for-the-badge&amp;logo=linux&amp;logoColor=white" alt="Linux" />
 </p>
 
 ---
